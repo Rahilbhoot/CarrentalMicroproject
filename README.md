@@ -1,3 +1,5 @@
 its a carrental project developed by rahil bhoot.
-
-it is the project of C++ programing language
+<br>
+it is the project of C++ programing language.
+<br>
+This is a toy system to rent cars.
