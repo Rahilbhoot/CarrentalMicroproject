@@ -1,7 +1,7 @@
-its a carrental project developed by rahil bhoot.
+its a carrental project developed by Rahil Bhoot and Manan Katarmal.
 <br>
 it is the project of C++ programing language.
 <br>
 This is a toy system to rent cars.
 <br>
-Author : rahil bhoot
+Authors : rahil bhoot and Manan Katarmal.
