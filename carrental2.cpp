@@ -67,8 +67,8 @@ void user_input(Car &car, Lessee &lessee, int theChoice)
     cout << "\t\t\t----------------------------------------\n";
     cout << "\t\t\tPlease Provide Your Personal Details  : \n";
     cout << "\t\t\t----------------------------------------\n\n";
-    cout << "\n\tNOTE: PROVIDE FIRST NAME ONLY, DONOT ENTER SPACE WHILE PROVIDING NAME,\n\tPAYMENT WON'T PROCEED IF THE GIVEN AMOUNT IS LESS THAN THE RATE OF CAR\n\n\n\n";
-    cout << "\t\t\tEnter Your Name : ";
+    cout << "\n\tNOTE: PROVIDE FIRST NAME, \n\tPAYMENT WON'T PROCEED IF THE GIVEN AMOUNT IS LESS THAN THE RATE OF CAR\n\n\n\n";
+    cout << "\t\t\tEnter Your First Name : ";
     cin >> lessee.Name[j];
     cout << "\t\t\tEnter Your National ID : ";
     cin >> lessee.Natio_ID[j];
@@ -154,3 +154,5 @@ int main()
     }
     return 0;
 }
+
+//"Made some improvements in formatting"-   manoskie 2025
